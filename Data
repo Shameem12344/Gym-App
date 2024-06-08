@@ -1,0 +1,1 @@
+mkdir -p data/gym-equipment/{train,test}/{benchpress,hyperextension_bench,plyometric_box,leg_press,power_rack}
